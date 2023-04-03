@@ -1,0 +1,16 @@
+export const _UTF8 = "utf8";
+export const _EMPTY = "";
+export const _AS = " as ";
+export const _SEMICOLON = ";";
+export const _SLASH = "/";
+export const _IS = " is ";
+export const _IMPORT = "import ";
+export const _CONTRACT = "contract ";
+export const _DOT = ".";
+export const _DIRTY_PATH = "/./";
+export const _DIRTY_PATH_2 = "/../";
+export const _SOL = "/**/*.sol";
+export const _LICENSE_PREFIX_1 = "// SPDX-License-Identifier";
+export const _LICENSE_PREFIX_2 = "//SPDX-License-Identifier";
+export const _SOL_VERSION_PREFIX = "pragma solidity";
+export const _SOL_EXP_HEADER_PREFIX = "pragma experimental";
